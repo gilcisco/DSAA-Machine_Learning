@@ -23,4 +23,4 @@ this end, a first income analysis was made to 32500 people older than 17 years o
 government intends to create a predictive model to apply to people on their way to Newland. 
 Several groups of data scientists (including your group) were invited to create a predictive model based 
 on a dataset of 22400 observations. This model will be applied to 10100 new observations (the test 
-dataset) from which the government knows the value of income. The group of data scientists who obtain
+dataset) from which the government knows the value of income. The group of data scientists who obtain the best performing model will be invited to join the Newland government data science department.
