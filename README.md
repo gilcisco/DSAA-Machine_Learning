@@ -14,6 +14,7 @@ process - Group A;
 been considered by the state has essential people to have on an initial stage) – Group B;
 - Around 1500 people payed to participate in the mission (those who were rejected in a selection 
 process but entered by making a money offer) – Group C.
+#
 In 2048, and with another 100 new spaceships on the way (where the selection criteria remains 
 controversial), the Newland government decided that residents should start paying taxes in order to make 
 the new city more financially sustainable. They decided to apply a binary tax rate in which for people with 
